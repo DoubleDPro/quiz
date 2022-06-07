@@ -1,4 +1,4 @@
-public class Main {
+public class Quiz {
 	public static void main(String[] args) throws InterruptedException {
 		CommonResource commonResource = new CommonResource();
 		for (int i = 0; i < 10; i++) {
